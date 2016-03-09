@@ -1,4 +1,4 @@
-## 
+##  
 
 The [Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/) is proposing a new policy to advance the consolidation and optimization of the Federal Government’s inventory of data centers.  The policy established in the memorandum succeeds and supersedes the Federal Data Center Consolidation Initiative (FDCCI), first established by OMB in February 2010.  The new policy addresses requirements in the Federal Information Technology Acquisition Reform Act (FITARA) that agencies develop comprehensive data center inventories and consolidation strategies and that OMB establish cost savings and optimization goals.
 
